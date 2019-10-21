@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "email": "test01@gmail.com",
+      "password": "$2a$10$abpbqEjA46E2cQ4GdL951.cXUPRAVz.n7es66QfhqIbVaR6nWyIqW",
+      "id": 1
+    },
+    {
+      "email": "test02@gmail.com",
+      "password": "$2a$10$DIAmAlSMHiD.010Y4j.bjuxZtmIcZojychOisfJ7ATHEQdqlNLG1.",
+      "id": 2
+    }
+  ],
+  "timeboxes": [
+    {
+      "title": "Czyli jednak działa",
+      "taskTime": "12",
+      "id": 6
+    },
+    {
+      "title": "Inputy nie są czyszczone",
+      "taskTime": "213",
+      "id": 7
+    },
+    {
+      "title": "dziaa?",
+      "taskTime": "123",
+      "id": 8
+    },
+    {
+      "title": "21dsa",
+      "taskTime": "21",
+      "id": 9
+    }
+  ]
+}
